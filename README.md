@@ -201,7 +201,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Eli Ben-David**
+**Eli Bendavid**
 - GitHub: [@EliBen8](https://github.com/EliBen8)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
 
